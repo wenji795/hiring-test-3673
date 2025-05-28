@@ -16,3 +16,5 @@ Let us know if you need any help fixing the DNS or certificate setup.
 
 Best regards,  
 Wenji
+
+// Submission finalised for SiteHost challenge
